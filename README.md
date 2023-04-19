@@ -17,4 +17,4 @@ align e justify;
 Neste repositório você tem acesso a todo o material produzido no curso.
 
 🛠️ Abrir e rodar o projeto
-Para abrir e rodar o projeto, basta abrir o aquivo index.html no navegador.
+Para abrir e rodar o projeto, basta abrir o aquivo http://127.0.0.1:5500/ no navegador.
